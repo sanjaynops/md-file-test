@@ -1,0 +1,8 @@
+### Steps to create the nSwitch SlackBot:
+
+1. Login to nOps platform
+2. Go to Organization Settings > API Key > On the top right you will find a button “Generate New API Key” > Click to generate a new API Key and save it somewhere. We will need this later.
+3. Login to your AWS account
+Go to AWS Lambda > Create a aws chatbot that will integrate with the dedicated slack channel we setup to communicate with aws
+
+**Use the following Lambda code to create the nSwitch SlackBot Lambda Function:**
